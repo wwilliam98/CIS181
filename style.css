@@ -1,0 +1,94 @@
+table {
+    font-family: arial, sans-serif;
+    border: 1px solid black;
+    width: 100%;
+}
+
+th {
+	text-align: left;
+}
+
+td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    border-style: none;
+}
+
+.A {
+	background-color: #eaeaea;
+}
+
+.B {
+	background-color: black;
+}
+
+.C {
+	background-color: white
+}
+
+th {
+	font-size: 200%;
+	text-align: center;
+	color: black;
+}
+
+td, th {
+		border-style: none;
+}
+
+header {
+		background-color: grey;
+}
+
+body {
+		background-color: grey;
+}
+
+main {
+		background-color: grey;
+}
+
+header {
+		background-color: grey;
+}
+
+header, h1 {
+		color: white;
+}
+
+.button3 {
+			border-radius: 30px;
+			background-color: black;
+			color: white;
+}
+
+footer {
+		background-color: white;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: grey;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: black;
+}
+
+#table tr:nth-child(even){background-color: #eaeaea;}
