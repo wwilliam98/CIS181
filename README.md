@@ -1,2 +1,2 @@
 <h1>This is my Final project for my HTML class</h1>
-<p>The final project can be access here <a href="https://github.com/wwilliam98/CIS181/deployments/activity_log?environment=github-pages"> https://github.com/wwilliam98/CIS181/</a><p>
+<p>The final project can be access here <a href="https://wwilliam98.github.io/CIS181/">https://wwilliam98.github.io/CIS181/</a><p>
